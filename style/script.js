@@ -72,7 +72,7 @@ const endFront = document.createElement('div');
 endFront.className = 'front';
 endFront.innerHTML = `
   <div class="end-content">
-    <h2>❤️ I Love You ❤️</h2>
+    <h2>❤️ Hab dich lieb ❤️</h2>
     <span id="ending-text"></span>
   </div>
 `;
